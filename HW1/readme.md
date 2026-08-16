@@ -7,7 +7,7 @@ Assignment page: https://condor.depaul.edu/ntomuro/courses/583/2026fall/assign/H
   <li>data/sample_2026.txt -- text file for Task 1</li>
   <li>data/output-sample.txt -- example output file for Task 1</li>
   <li>data/war-and-peace.txt -- text file for Task 2</li>
-  <li>data/output-WaP-2026-500 -- example output file (top 500) for Task 2
+  <li>data/output-WaP-2026-500.txt -- example output file (top 500) for Task 2
 </ul>
 
 ## Acknowledgments
