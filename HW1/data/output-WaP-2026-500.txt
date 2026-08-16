@@ -1,3 +1,8 @@
+# of paragraphs: 12169
+# of sentences: 31911
+# of tokens: 673293
+# of unique tokens: 18288
+====================================
 1: ,  39882
 2: the  34721
 3: .  24992

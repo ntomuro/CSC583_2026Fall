@@ -1,3 +1,8 @@
+# of paragraphs: 8
+# of sentences: 31
+# of tokens: 567
+# of unique tokens: 274
+====================================
 1: .  27
 2: the  24
 3: ,  19
