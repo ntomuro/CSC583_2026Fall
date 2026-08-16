@@ -1,4 +1,4 @@
-# :deciduous_tree: HW#1  Text Preprocessing
+# :alien: HW#1  Text Preprocessing
 
 Assignment page: https://condor.depaul.edu/ntomuro/courses/583/2026fall/assign/HW1/hw1-2026fall.html
 
