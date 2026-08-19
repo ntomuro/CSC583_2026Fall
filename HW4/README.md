@@ -1,4 +1,4 @@
-# :dog: CSC 583 HW#4
+# :dog: CSC 583 HW#4 Ngrams and LM
 
 This folder contains files relevant to the assignment.  Note that NO start-up code is provided for this assignment.
 
