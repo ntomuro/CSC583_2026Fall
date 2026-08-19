@@ -4,7 +4,7 @@ This folder contains files relevant to the assignment.  Note that NO start-up co
 
 Note the source file MUST be a Jupyter notebook, and with your name, assignment name and number at the top.  Code must be well organized and added with comments as well.
 
-<b>Assignment page</b>: https://condor.depaul.edu/ntomuro/courses/583/2026fall/assign/HW1/hw4-2026fall.html
+<b>Assignment page</b>: https://condor.depaul.edu/ntomuro/courses/583/2026fall/assign/HW4/hw4-2026fall.html
 
 ### :robot: Repository of the data and example files of the assignment.
 <ul>
