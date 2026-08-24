@@ -6,13 +6,13 @@ Code and file repository for assignments and project.
 
 Following assignments are planned so far (as of Sept 2026).
 
-- Homework #0: :robot: (Quiz) Linguistic essentials
+- Homework #0: :robot: (Quiz) Linguistic essentials, Python regular expressions
 - Homework #1: :alien: Text preprocessing
 - Homework #2: :seedling: Embeddings
 - Homework #3: :deciduous_tree: Vectors Embeddings and RAG
 - Homework #4: :dog: Ngrams and LM
 - Homework #5: :snail: Text summarization/generation
-- Default Final Project: :jack_o_lantern: Agentic AI and RAG, plus more
+- Default Final Project: :jack_o_lantern: Something on Agentic AI... :)
 
 There will also be a **Final Project** due at the end of the course.
 

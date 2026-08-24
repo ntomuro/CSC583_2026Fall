@@ -1,8 +1,8 @@
 # :dog: CSC 583 HW#4 Ngrams and LM
 
-This folder contains files relevant to the assignment.  Note that NO start-up code is provided for this assignment.
+This folder contains files relevant to the assignment.  Note that NO start-up code is provided for this assignment.  The notebook file here is an example code file, not a starter code.
 
-Note the source file MUST be a Jupyter notebook, and with your name, assignment name and number at the top.  Code must be well organized and added with comments as well.
+Note that your source file MUST be a Jupyter notebook, and with your name, assignment name and number at the top.  Code must be well organized and added with comments as well.
 
 <b>Assignment page</b>: https://condor.depaul.edu/ntomuro/courses/583/2026fall/assign/HW4/hw4-2026fall.html
 
