@@ -15,21 +15,21 @@ Make sure that it is at least Python version 3.8. If not, the easiest thing to d
 
 After you have installed conda, close any open terminals you might have. Then open a new terminal and run the following command:
 
-## 1. Create an environment with dependencies specified in env.yml (which is included in cs224n assignment zip (https://web.stanford.edu/class/cs224n/assignments_w26/a1.zip)):
+### 1. Create an environment with dependencies specified in env.yml (which is included in cs224n assignment zip (https://web.stanford.edu/class/cs224n/assignments_w26/a1.zip)):
     conda env create -f env.yml
 
-## 2. Activate the new environment:
+### 2. Activate the new environment:
     conda activate 583hw2
     
-## 3. Inside the new environment, install IPython kernel so we can use this environment in jupyter notebook: 
+### 3. Inside the new environment, install IPython kernel so we can use this environment in jupyter notebook: 
  
     python -m ipykernel install --user --name 583hw2
 
-## 4. This homework is a Jupyter Notebook. With the above done you should be able to get underway by typing:
+### 4. This homework is a Jupyter Notebook. With the above done you should be able to get underway by typing:
 
     jupyter notebook hw2_word_vectors.ipynb
     
-## 5. To make sure we are using the right environment, go to the toolbar of hw2_word_vectors.ipynb, click on Kernel -> Change kernel, you should see and select 583hw2 in the drop-down menu.
+### 5. To make sure we are using the right environment, go to the toolbar of hw2_word_vectors.ipynb, click on Kernel -> Change kernel, you should see and select 583hw2 in the drop-down menu.
 
-## To deactivate an active environment, use
+### To deactivate an active environment, use
     conda deactivate
