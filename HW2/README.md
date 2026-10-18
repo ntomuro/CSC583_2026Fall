@@ -15,7 +15,7 @@ Make sure that it is at least Python version 3.8. If not, the easiest thing to d
 
 After you have installed conda, close any open terminals you might have. Then open a new terminal and run the following command:
 
-### 1. Create an environment with dependencies specified in env.yml (which is included in cs224n assignment zip (https://web.stanford.edu/class/cs224n/assignments_w26/a1.zip)):
+### 1. Create an environment with dependencies specified in env.yml:
     conda env create -f env.yml
 
 ### 2. Activate the new environment:
