@@ -1,6 +1,6 @@
 # :jack_o_lantern: Default Final Project (CleanTech)
 
-The assignment page is [here](https://condor.depaul.edu/ntomuro/courses/583/2026fall/assign/Final_Project/default-final-project-2026fall.html).
+The assignment page is [here](https://condor.depaul.edu/ntomuro/courses/583/2026fall/assign/FinalProject/default-final-project-2026fall.html).
 
 Original datasets are available on Kaggle, ["Cleantech Media Dataset by Anacode"](https://www.kaggle.com/datasets/jannalipenkova/cleantech-media-dataset).
 
